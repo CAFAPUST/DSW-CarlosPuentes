@@ -1,0 +1,21 @@
+.centrado{
+    text-align: center;
+    background-color: #665A48;
+    padding: 5px;
+}
+.pie{
+    text-align: center;
+    background-color: #9F8772;
+    padding: 5px;
+}
+.principal{
+    background-color: #EDE4E0;
+}
+.menu{
+    background-color: #DFD3C3;
+}
+.principal2{
+    background-color: #EDE4E0;
+    text-align: center;
+}
+
